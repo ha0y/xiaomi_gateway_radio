@@ -1,0 +1,16 @@
+{
+  "domain": "xiaomi_gateway_radio",
+  "name": "xiaomi_gateway_radio",
+  "version": "0.1",
+  "config_flow": false,
+  "documentation": "https://github.com/ha0y/xiaomi_gateway_radio",
+  "issue_tracker": "https://github.com/ha0y/xiaomi_gateway_radio/issues",
+  "requirements": [
+    "construct==2.10.56",
+    "python-miio>=0.5.3"
+  ],
+  "dependencies": [],
+  "codeowners": [
+    "@ha0y"
+  ]
+}
