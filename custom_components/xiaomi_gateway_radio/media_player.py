@@ -1,6 +1,7 @@
 import asyncio
 import logging
 from ast import literal_eval
+from datetime import timedelta
 from functools import partial
 
 import homeassistant.helpers.config_validation as cv
